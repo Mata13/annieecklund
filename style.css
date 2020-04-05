@@ -1,6 +1,50 @@
+*{
+
+    margin: 1px;
+    border: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+#section1{
+
+    font-family: 'Rajdhani', sans-serif;
+
+}
+
+#p1{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#caja1{
+
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+
+}
+
+
+ul li:hover a{
+
+    padding-left: 50px;
+
+}
+
+.sidebar ul a i{
+
+    margin-right: 20px;
+
+}
+
 #caja1{
     background: white;
     font-family: 'Comic Neue', cursive;
-font-family: 'Kurale', serif;
-font-family: 'Cormorant Garamond', serif;
+    font-family: 'Kurale', serif;
+    font-family: 'Cormorant Garamond', serif;
 }
+

@@ -14,37 +14,49 @@
 
 }
 
-#p1{
-
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-#caja1{
-
-    width: 250px;
-    height: 250px;
-    background-color: aqua;
-
-}
-
-
 ul li:hover a{
 
     padding-left: 50px;
 
 }
 
-.sidebar ul a i{
+.caja1{
 
-    margin-right: 20px;
+    width: 250px;
+    height: 100px;
+    background-color: whitesmoke;
+    border: 1px solid;
+    border-color: red;
 
 }
 
-#caja1{
-    background: white;
-    font-family: 'Comic Neue', cursive;
-    font-family: 'Kurale', serif;
-    font-family: 'Cormorant Garamond', serif;
+.caja2{
+
+    width: 1360px;
+    height: 100px;
+    background-color: whitesmoke;
+    border: 1px solid;
+    border-color: grey;
+
 }
+
+.caja3{
+
+    width: 1000px;
+    height: 100px;
+    background-color: whitesmoke;
+    border: 1px solid;
+    border-color: black;
+
+}
+
+p{
+
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    vertical-align: auto;
+    
+    }
+
 
